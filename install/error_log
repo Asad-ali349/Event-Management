@@ -1,0 +1,7 @@
+[12-Oct-2021 14:29:34 America/New_York] PHP Notice:  Undefined index: host in /home/animgvlj/thesupervpn.raufcoders.com/install/index.php on line 262
+[12-Oct-2021 14:29:34 America/New_York] PHP Notice:  Undefined index: user in /home/animgvlj/thesupervpn.raufcoders.com/install/index.php on line 263
+[12-Oct-2021 14:29:34 America/New_York] PHP Notice:  Undefined index: baseurl in /home/animgvlj/thesupervpn.raufcoders.com/install/index.php on line 264
+[12-Oct-2021 14:29:34 America/New_York] PHP Notice:  Undefined index: pass in /home/animgvlj/thesupervpn.raufcoders.com/install/index.php on line 265
+[12-Oct-2021 14:29:34 America/New_York] PHP Notice:  Undefined index: name in /home/animgvlj/thesupervpn.raufcoders.com/install/index.php on line 266
+[12-Oct-2021 14:35:17 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/animgvlj/thesupervpn.raufcoders.com/install/index.php on line 373
+[12-Oct-2021 14:35:17 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/animgvlj/thesupervpn.raufcoders.com/install/index.php on line 387

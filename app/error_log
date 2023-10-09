@@ -1,0 +1,511 @@
+[21-Oct-2021 16:34:49 America/New_York] PHP Warning:  require_once(config_DB.php): failed to open stream: No such file or directory in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 4
+[21-Oct-2021 16:34:49 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'config_DB.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 4
+[21-Oct-2021 16:40:44 America/New_York] PHP Warning:  require_once(../database.config_DB.php): failed to open stream: No such file or directory in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 4
+[21-Oct-2021 16:40:44 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../database.config_DB.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 4
+[21-Oct-2021 16:46:30 America/New_York] PHP Notice:  Undefined index: Free in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 10
+[21-Oct-2021 16:47:12 America/New_York] PHP Notice:  Undefined index: Free in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 10
+[23-Oct-2021 04:13:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/animgvlj/thesupervpn.raufcoders.com/app/app_login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/thesupervpn.raufcoders.com/app/app_login.php on line 14
+[23-Oct-2021 04:14:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/animgvlj/thesupervpn.raufcoders.com/app/app_login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/thesupervpn.raufcoders.com/app/app_login.php on line 14
+[23-Oct-2021 04:15:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/animgvlj/thesupervpn.raufcoders.com/app/app_login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/thesupervpn.raufcoders.com/app/app_login.php on line 14
+[23-Oct-2021 06:06:58 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 13
+[23-Oct-2021 06:06:58 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 14
+[23-Oct-2021 06:06:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 14
+[23-Oct-2021 06:09:18 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 13
+[23-Oct-2021 06:09:18 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 14
+[23-Oct-2021 06:09:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 14
+[23-Oct-2021 06:10:19 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 13
+[23-Oct-2021 06:10:19 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 14
+[23-Oct-2021 06:10:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 14
+[23-Oct-2021 06:11:31 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 13
+[23-Oct-2021 06:11:31 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 14
+[23-Oct-2021 06:11:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 14
+[23-Oct-2021 06:11:36 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 13
+[23-Oct-2021 06:11:36 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 14
+[23-Oct-2021 06:11:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 14
+[23-Oct-2021 06:13:02 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 13
+[23-Oct-2021 06:13:02 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 14
+[23-Oct-2021 06:13:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 14
+[23-Oct-2021 06:21:00 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:00 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:25 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:25 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:30 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:31 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:31 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:31 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:31 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:32 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:32 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:33 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:33 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:33 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:33 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:47 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:47 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:47 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:47 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:48 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:48 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:50 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:50 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:53 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:54 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:54 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:54 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:54 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:55 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:55 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:55 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:55 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:55 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:55 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:55 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:55 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:55 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:55 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:55 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:55 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:56 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:56 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:56 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:21:56 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:21:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:24:36 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:24:36 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 06:24:42 America/New_York] PHP Warning:  Use of undefined constant checkemail - assumed 'checkemail' (this will throw an Error in a future version of PHP) in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 9
+[23-Oct-2021 06:24:42 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 10
+[23-Oct-2021 13:59:14 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 13:59:38 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 13:59:42 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 13:59:47 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 13:59:48 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 13:59:48 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 13:59:49 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 13:59:49 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 13:59:49 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 13:59:49 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 13:59:49 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 13:59:49 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 13:59:50 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 13:59:50 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 13:59:50 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 13:59:50 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 13:59:50 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 13:59:50 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:11 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:15 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:16 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:17 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:17 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:17 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:18 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:18 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:18 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:18 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:18 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:18 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:18 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:19 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:19 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:19 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:19 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:19 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:19 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:19 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:19 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:19 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:19 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:20 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:20 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:20 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:03:20 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:04:27 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[23-Oct-2021 14:04:33 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:51:30 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:51:34 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:51:39 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:51:40 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:51:40 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:51:41 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:51:41 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:51:41 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:51:42 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:51:42 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:51:42 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:51:42 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:51:42 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:51:42 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:51:43 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:51:43 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:51:43 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:51:43 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:54:04 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:54:08 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:54:11 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:54:12 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:54:12 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:54:13 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:54:13 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:54:13 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:54:14 America/New_York] PHP Notice:  Undefined index: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 7
+[24-Oct-2021 09:54:22 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:26 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:26 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:26 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:26 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:26 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:27 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:27 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:27 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:27 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:27 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:28 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:28 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:29 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:29 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:29 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:29 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:35 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:36 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:36 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:36 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:36 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:36 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:37 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:37 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:37 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:37 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:38 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:38 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:38 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:38 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:39 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:39 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:39 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:39 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:39 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[24-Oct-2021 09:54:40 America/New_York] PHP Notice:  Undefined variable: password in /home/animgvlj/thesupervpn.raufcoders.com/app/forgetpass.php on line 21
+[29-Nov-2021 08:15:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/animgvlj/thesupervpn.raufcoders.com/app/app_login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/thesupervpn.raufcoders.com/app/app_login.php on line 15
+[29-Nov-2021 08:16:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/animgvlj/thesupervpn.raufcoders.com/app/app_login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/thesupervpn.raufcoders.com/app/app_login.php on line 15
+[29-Nov-2021 08:18:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/animgvlj/thesupervpn.raufcoders.com/app/app_login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/thesupervpn.raufcoders.com/app/app_login.php on line 15
+[08-Feb-2022 15:23:26 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 13
+[08-Feb-2022 15:23:26 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 14
+[08-Feb-2022 15:23:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 14
+[09-Feb-2022 03:01:49 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 13
+[09-Feb-2022 03:01:49 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 14
+[09-Feb-2022 03:01:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 14
+[09-Feb-2022 03:10:05 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 13
+[09-Feb-2022 03:10:05 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 14
+[09-Feb-2022 03:10:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/thesupervpn.raufcoders.com/app/app_registration.php on line 14
+[18-Feb-2022 14:38:45 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 13
+[18-Feb-2022 14:38:45 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[18-Feb-2022 14:38:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[19-Feb-2022 01:01:52 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 13
+[19-Feb-2022 01:01:52 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[19-Feb-2022 01:01:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[06-Mar-2022 09:17:45 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 13
+[06-Mar-2022 09:17:45 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[06-Mar-2022 09:17:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[06-Mar-2022 09:18:02 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 13
+[06-Mar-2022 09:18:02 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[06-Mar-2022 09:18:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[06-Mar-2022 09:24:38 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 13
+[06-Mar-2022 09:24:38 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[06-Mar-2022 09:24:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[06-Mar-2022 09:26:51 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 13
+[06-Mar-2022 09:26:51 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[06-Mar-2022 09:26:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[06-Mar-2022 10:54:53 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 13
+[06-Mar-2022 10:54:53 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[06-Mar-2022 10:54:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[08-Mar-2022 13:19:27 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 13
+[08-Mar-2022 13:19:27 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[08-Mar-2022 13:19:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[08-Mar-2022 13:21:44 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 13
+[08-Mar-2022 13:21:44 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[08-Mar-2022 13:21:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[08-Mar-2022 13:21:54 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 13
+[08-Mar-2022 13:21:54 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[08-Mar-2022 13:21:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[08-Mar-2022 13:22:28 America/New_York] PHP Notice:  Undefined variable: email in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 13
+[08-Mar-2022 13:22:28 America/New_York] PHP Notice:  Undefined variable: DBcon in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[08-Mar-2022 13:22:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/animgvlj/cnxvpn.raufcoders.com/app/app_registration.php on line 14
+[04-Apr-2022 16:06:16 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 16:06:16 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 16:06:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 16:06:21 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 16:06:21 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 16:06:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 16:06:55 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 16:06:55 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 16:06:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 16:09:37 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 16:09:37 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 16:09:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 16:10:30 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 16:10:30 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 16:10:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 16:10:31 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 16:10:31 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 16:10:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 16:10:31 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 16:10:31 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 16:10:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 16:19:06 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 16:19:06 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 16:19:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 16:50:13 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 16:50:13 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 16:50:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 18:43:53 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 18:43:53 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 18:43:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 18:43:57 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 18:43:57 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 18:43:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 18:46:24 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 18:46:24 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 18:46:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 18:51:04 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 18:51:04 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 18:51:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:21:19 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 19:21:19 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:21:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:21:39 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 19:21:39 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:21:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:22:36 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 19:22:36 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:22:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:23:38 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 19:23:38 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:23:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:23:53 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 19:23:53 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:23:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:24:34 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 19:24:34 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:24:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:25:07 UTC] PHP Notice:  Undefined index: phone in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 10
+[04-Apr-2022 19:26:19 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 19:26:19 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:26:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:26:36 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 19:26:36 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:26:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:26:46 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 19:26:46 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:26:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:26:54 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 19:26:54 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:26:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:27:15 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 19:27:15 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:27:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:27:42 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 19:27:42 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:27:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:27:44 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 19:27:44 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:27:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:27:48 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 19:27:48 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:27:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:27:52 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 19:27:52 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:27:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:28:07 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 19:28:07 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:28:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:28:18 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 19:28:18 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:28:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:28:43 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 19:28:43 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:28:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:30:00 UTC] PHP Notice:  Undefined variable: email in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 13
+[04-Apr-2022 19:30:00 UTC] PHP Notice:  Undefined variable: DBcon in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[04-Apr-2022 19:30:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shahxnhi/cnx.shaheendevs.com/app/app_registration.php on line 14
+[13-May-2022 13:10:39 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shahxnhi/cnx.shaheendevs.com/app/app_login.php on line 11
+[03-Jun-2022 15:29:22 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shahxnhi/cnx.shaheendevs.com/app/app_login.php on line 11
+[03-Jun-2022 15:29:24 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shahxnhi/cnx.shaheendevs.com/app/app_login.php on line 11
